@@ -1,0 +1,111 @@
+Home Tab
+Home
+
+Selection Task: Recipe Sharing Website Frontend Requirements in react: 1. Homepage Design: a. Logo at the top-left and a navigation bar with links to Home, Browse Recipes, Submit Recipe, and User Profile. b. Search Bar for filtering recipes by title or ingredients. c. Main Banner with a full-width image and CTA buttons: "Browse Recipes" and "Submit a Recipe". d. Display Featured Recipe Categories (Breakfast, Vegan, Desserts, etc.) with links. 2. Recipe List Page: a. Display a grid/list of recipes with Recipe Name, Image, Short Description, Rating, Category, and Difficulty. b. Implement basic filters (Category and Time filters). 3. Recipe Detail Page: a. Display Recipe Title, Ingredients, Step-by-Step Instructions, and Ratings. 4. Submit Recipe Page: a. Create a form for users to submit a recipe with Title, Ingredients, Instructions, Category, and Cooking Time. Backend Requirements: 1. Express Server Setup: a. Set up Node.js server using Express. b. Implement basic API routes (GET, POST, DELETE) for recipes. 2. User Authentication (JWT): a. Implement simple JWT Authentication for login and registration. and tell me complete structure of project step by step?
+
+right arrow
+Buy Credits
+
+
+User Avatar
+Selection Task: Recipe Sharing Website
+
+Frontend Requirements in react:
+
+1. Homepage Design:
+
+a. Logo at the top-left and a navigation bar with links to Home, Browse Recipes,
+
+Submit Recipe, and User Profile.
+
+b. Search Bar for filtering recipes by title or ingredients.
+
+c. Main Banner with a full-width image and CTA buttons: "Browse Recipes" and
+
+"Submit a Recipe".
+
+d. Display Featured Recipe Categories (Breakfast, Vegan, Desserts, etc.) with
+
+links.
+
+2. Recipe List Page:
+
+a. Display a grid/list of recipes with Recipe Name, Image, Short Description,
+
+Rating, Category, and Difficulty.
+
+b. Implement basic filters (Category and Time filters).
+
+3. Recipe Detail Page:
+
+a. Display Recipe Title, Ingredients, Step-by-Step Instructions, and Ratings.
+
+4. Submit Recipe Page:
+
+a. Create a form for users to submit a recipe with Title, Ingredients,
+
+Instructions, Category, and Cooking Time.
+
+Backend Requirements:
+
+1. Express Server Setup:
+
+a. Set up Node.js server using Express.
+
+b. Implement basic API routes (GET, POST, DELETE) for recipes.
+
+2. User Authentication (JWT):
+
+a. Implement simple JWT Authentication for login and registration.
+
+and tell me complete structure of project step by step?
+
+Nov 11, 02:32 PM
+
+Copy
+Robot
+Welcome to Emergent - your single destination to build and deploy production-ready applications.
+
+It looks like you're aiming to build a vibrant recipe-sharing platform with a smooth user experience for browsing, submitting, and managing recipes, all secured with user authentication. I'll make sure all those frontend and backend pieces fit together perfectly.
+
+I'll start building this now!
+
+
+Copy
+Robot
+I'll help you build this Recipe Sharing Website! However, I need to clarify a few things before we proceed:
+
+Ask Question
+Agent asked a question
+Answered
+Up
+Nov 11, 02:32 PM
+
+Copy
+no plz setup according to my requirements
+
+Nov 11, 02:33 PM
+
+Copy
+Scroll to bottom
+Agent is waiting...
+Message Neo
+Attach
+GitHub
+Save to GitHub
+Fork
+Fork
+
+Ultra
+
+
+
+send
+App Preview
+Close
+Matrix CodeMatrix CodeMatrix CodeMatrix CodeMatrix CodeMatrix Code
+Logo
+One-click deploy with custom domains
+
+Let's make something incredible!
+
